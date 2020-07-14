@@ -1,0 +1,18 @@
+/* :root {
+    --bg: #fff;
+    --color: #222831;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--color);
+    display: flex;
+    just-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    padding: 50px 10vw;
+}
+
+a {
+    color: #1c9963;
+} */
